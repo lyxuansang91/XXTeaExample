@@ -1,0 +1,12 @@
+{
+    "android": {
+        "Facebook": {
+            "debug": true
+        }
+    }, 
+    "ios": {
+        "Facebook": {
+            "debug": true
+        }
+    }
+}
