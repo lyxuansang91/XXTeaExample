@@ -1,12 +1,17 @@
 {
-    "android": {
-        "Facebook": {
-            "debug": true
-        }
-    }, 
     "ios": {
-        "Facebook": {
-            "debug": true
+        "iap": {
+            "items": {
+                "Buy Mon": {
+                    "id": "com.baila.imon.buymon"
+                },
+                "Pack 1": {
+                    "id": "com.baila.imon.200001"
+                },
+                "Pack 2": {
+                    "id": "com.baila.imon.200002"
+                }
+            }
         }
     }
 }
